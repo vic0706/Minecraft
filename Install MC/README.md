@@ -1,4 +1,5 @@
-# 開始安裝 Minecraft 
+## 開始安裝 Minecraft
+--- 
 
 # 一. 下載安裝 Minecraft 主程式
 ##### 安裝主程式
