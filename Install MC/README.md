@@ -1,7 +1,7 @@
-## 開始安裝 Minecraft
---- 
+# 開始安裝 Minecraft
+##### 參照下列步驟...
 
-# 一. 下載安裝 Minecraft 主程式
+## 一. 下載安裝 Minecraft 主程式
 ##### 安裝主程式
 [https://www.minecraft.net/en-us/download ](https://www.minecraft.net/en-us/download) 
 ##### 安裝 JAVA 11
@@ -9,7 +9,7 @@
 
 ---
 
-### 二. 下載安裝 EasyMc 免費帳號
+## 二. 下載安裝 EasyMc 免費帳號
 ##### 安裝EasyMC
 [https://easymc.io/client](https://easymc.io/client)
 ##### 選擇免費角色
@@ -21,7 +21,7 @@
 
 -
 
-### 三. 下載安裝 forge 模組
+## 三. 下載安裝 forge 模組
 ##### 下載 forge 模組套件
 [forge download - 1.16.5-36.1.0](https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar)
 ##### 執行 forge-1.16.5-36.1.0-installer.jar
@@ -30,7 +30,7 @@
 
 -
 
-### 四. 下載安裝遊戲模組包
+## 四. 下載安裝遊戲模組包
 ##### 下載 Install_Mods.exe
 [Install Mods Download](https://github.com/vic0706/Minecraft/raw/main/Install%20MC/Install_Mods.exe)
 ##### 執行 Install_Mods.exe
