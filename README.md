@@ -15,3 +15,39 @@ mod not sure
 
 mod need time
 1. https://www.curseforge.com/minecraft/mc-mods/refined-storage
+
+
+
+
+
+python code 
+import requests as req
+import subprocess,zipfile,os,shutil
+from tqdm import tqdm
+
+url = 'https://github.com/vic0706/Minecraft/archive/refs/heads/main.zip'
+def download(url):
+    filename = url.split('/')[-1]
+    r = req.get(url, stream=True)
+    with open(filename, 'wb') as f:
+        for data in tqdm(r.iter_content(1024)):
+            f.write(data)
+    return filename
+
+def zip(file):
+	unzip = zipfile.ZipFile(file, 'r')
+	unzip.extractall()
+	unzip.close()
+
+
+shutil
+
+
+#download(url)
+#zip('main.zip')
+
+
+
+#subprocess.call(['java', '-jar', 'forge-1.16.5-36.1.0-installer.jar'])
+
+
