@@ -6,7 +6,6 @@
 ##### 安裝 JAVA 11
 [Java11 Download](https://www.oracle.com/tw/java/technologies/javase-jdk11-downloads.html)
 
--
 
 ### 二. 下載安裝 EasyMc 免費帳號
 ##### 安裝EasyMC
@@ -18,7 +17,7 @@
 ###### 輸入 Alt Token 並 LOGIN
 ![](https://i.imgur.com/fvTVJXZ.png)
 
--
+
 
 ### 三. 下載安裝 forge 模組
 ##### 下載 forge 模組套件
@@ -27,7 +26,7 @@
 ###### 選擇 Install Client (路徑預設即可)
 ![](https://i.imgur.com/0lvcXxa.png)
 
--
+
 
 ### 四. 下載安裝遊戲模組包
 ##### 下載 Install_Mods.exe
