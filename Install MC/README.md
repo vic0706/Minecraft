@@ -41,3 +41,12 @@
 ##### 修改 JVM 參數
 `-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
 > -Xmx4G --> 看自己設備的記憶體去配置
+
+## 六. 調整模組 
+#### -ShaderPacks 光影材質包
+##### 進入伺服器，點選 [ 選項 ] -> [ 顯示設定 ] -> [ 光影]
+![shader](https://i.imgur.com/K0endwE.jpg)
+
+#### -ResourcePacks 材質包
+##### 進入伺服器，點選 [ 選項 ] -> [ 材質包 ]
+![ㄍresource](https://i.imgur.com/ccXbEAi.jpg)
