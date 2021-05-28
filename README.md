@@ -1,6 +1,9 @@
 ## Install Minecraft
 [安裝遊戲及模組](https://github.com/vic0706/Minecraft/tree/main/Install%20MC#%E9%96%8B%E5%A7%8B%E5%AE%89%E8%A3%9D-minecraft)
 
+## Server IP
+`35.201.158.113`
+
 ## Start Minecraft
 ##### 選擇安裝檔 [ forge ] ，並點選編輯
 ![Start Minecraft](https://i.imgur.com/w86gXwj.jpg)
