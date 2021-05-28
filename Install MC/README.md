@@ -5,6 +5,7 @@
 ##### 安裝主程式
 [https://www.minecraft.net/en-us/download ](https://www.minecraft.net/en-us/download) 
 ##### 安裝 JAVA 11
+###### Windows 選擇 Windows x64 Installer	
 [Java11 Download](https://www.oracle.com/tw/java/technologies/javase-jdk11-downloads.html)
 
 ## 二. 下載安裝 EasyMc 免費帳號
