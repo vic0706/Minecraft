@@ -8,7 +8,8 @@
 增加動物豐富性,獵豹,長頸鹿等動物
 
 ## Dwarf+1.16.4.jar
-##### 合成 - 挖到地底核心的小矮人
+##### 挖到地底核心的小矮人
+###### 合成方式 : 
 ![image](https://user-images.githubusercontent.com/84825753/120055733-87a90700-c06a-11eb-8f36-ed03bee74c73.png)
 
 ## OptiFine_1.16.5_HD_U_G8_MOD.jar
@@ -29,10 +30,23 @@
 
 ## advancements_tracker_1.16.5-0.3.1.jar
 ##### 任務欄
-![image](https://user-images.githubusercontent.com/84825753/120056141-fa1ae680-c06c-11eb-88ff-fa606f25e269.png)
+![image](https://user-images.githubusercontent.com/84825753/120064203-aaa0de80-c09d-11eb-9e98-c3fde9b2b6aa.png)
 
 ## buzzydrones-1.0-1.16.5.jar
-##### 
+##### 蜜蜂物流 
+###### 物品放置源站, 蜜蜂會運送到目標站
+###### 合成方式 : 
+| 無人機  | 放入工作檯 |
+| ------------- |:-------------:|
+| 閒置工作站     | 無人機源站     |
+| 無人機源站     | 無人機目標站   |
+![image](https://user-images.githubusercontent.com/84825753/120064019-cce62c80-c09c-11eb-887e-67445477727e.png)
+
+## callablehorses-1.16.3-1.2.1.4.jar
+##### 招喚馬
+###### 與馬建立夥伴關係, 且可以呼喚馬過來
+![image](https://user-images.githubusercontent.com/84825753/120064131-60b7f880-c09d-11eb-9dbc-860b69003356.png)
+
 
 
 
