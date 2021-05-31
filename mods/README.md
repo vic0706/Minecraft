@@ -65,7 +65,12 @@
 ![image](https://user-images.githubusercontent.com/84825753/120179744-88de5d80-c23d-11eb-816b-b1389ed902cd.png)
 ![image](https://user-images.githubusercontent.com/84825753/120185271-8fbc9e80-c244-11eb-9437-26e69e18d5b9.png)
 
+## simplerail-1.16.5-0.2.86.jar
+##### 動力鐵軌
+[配置方法](https://www.curseforge.com/minecraft/mc-mods/simplerail)
 
-
+## tablechair-1.16.5.jar
+##### 特別版桌椅配置
+[合成方法](http://www.9minecraft.net/tablechair-mod/)
 
 
