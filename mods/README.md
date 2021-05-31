@@ -50,5 +50,20 @@
 ## dungeonsarise1.16.5-1.2.72a.jar
 ##### 地圖生成許多要塞堡壘, 探險尋寶
 
+## invautofill-1.3.3.jar (尚未測試成功)
+
+## journeymap-1.16.5-5.7.1.jar
+##### 旅行地圖
+###### 自行設置順手的案件配置
+###### 地位點管理器 : 配置傳送點
+![image](https://user-images.githubusercontent.com/84825753/120176802-4b2c0580-c23a-11eb-962c-4eeabb67cad6.png)
+
+## majobroom1.3.1.jar 
+##### 女巫飛行掃把
+###### 合成方式 : 
+![image](https://user-images.githubusercontent.com/84825753/120179636-6e0be900-c23d-11eb-9a8d-e40d29361925.png)
+![image](https://user-images.githubusercontent.com/84825753/120179744-88de5d80-c23d-11eb-816b-b1389ed902cd.png)
+
+
 
 
