@@ -73,7 +73,7 @@
 ##### 特別版桌椅配置
 [合成方法](http://www.9minecraft.net/tablechair-mod/)
 
-## JEI 
+## jei-1.16.5-7.7.0.101.jar
 ##### 物品合成表
 ![image](https://user-images.githubusercontent.com/84825753/120198935-40cb3500-c255-11eb-9ba8-7e47491fb884.png)
 
