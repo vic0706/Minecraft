@@ -6,6 +6,40 @@
 ##### 物品合成表
 ![image](https://user-images.githubusercontent.com/84825753/120198935-40cb3500-c255-11eb-9ba8-7e47491fb884.png)
 
+## M.D.+Gaming+Consoles.jar
+##### 裝飾-遊戲機
+![image](https://user-images.githubusercontent.com/84825753/120218493-644daa00-c26c-11eb-9477-2c8af1f9da23.png)
+
+## alexsmobs-1.10.1.jar
+##### 加入各種動物
+![image](https://user-images.githubusercontent.com/84825753/120218605-9232ee80-c26c-11eb-9480-4a758dff569f.png)
+
+## ExtraArmor-1.12.1-1.16.5.jar
+##### 各式盔甲 (防火防冰防水...等等)
+[各式盔甲參考](https://www.curseforge.com/minecraft/mc-mods/extra-armor)
+###### 合成方式 : 參考物品合成表
+
+## enderite-1.16.5-beta-release.jar
+### 終界合金 (最強大的礦石)
+###### 合成方式 : 參考物品合成表
+
+## EndRemastered-R36.jar
+### 更遙遠的終界 
+###### 需要到各處遺跡得到寶石才可以進入 , 遙遠終界武器類也提供不少能力
+![image](https://user-images.githubusercontent.com/84825753/120219857-729cc580-c26e-11eb-93a0-6793d57fdff5.png)
+
+## hole_filler_mod_1.2.4.1-mc_1.16.x-forge.jar
+### 填平坑洞
+###### 古力帕老是亂炸,試試這個!
+[合成方式](https://www.curseforge.com/minecraft/mc-mods/hole-filler-mod?__cf_chl_jschl_tk__=1effd5db5a470d44eaeaa170385ccdbe6df08730-1622477737-0-AXOLph45JV_C3FQYo4SFBOjEfxg8kopEKkOTLMY0mASgaowgO0zFkb1zEUeeGTnE_Qi9Efx6lLBu_GZrS72nOfU_iDSs_PWRKqGfurTUQtqTorbfwtmLmGNQ7zMOZ4oGrUCAkbt2xEVwh0ahz42SGzAWIFtYz12h7SQXnn17P4U7-4Dz_khPIicvZ4g5ILdtgXDYfVuA1gRLa8KGLG7FpKiyu7scuYatG7j6dVpDTkdZF0cyqcl2qlAoklfjqeLqsFDd651z4Q3DQXTctLrCzvI7Dwbch_HJ7HdJH6q3JaLTAaMh9NxyDdEJfEtL3cLXDNJ2IVlcMj_gZAsnrCeusJ41xFqM8pzvWN7oDDTqnEqxX6cGszcb9m4Kol-PBT0P9YKRTid7B-5SM1jTY6yPI44NQ18RC2Alw3AGjDSpXYB7camIoCHwaHcFRX60BipU8AgX8sTSnVUjXyytbMrS-R0oC7TwLxobzck-lR7YG6SRefAc97o_13IglUzrbqxkNg)
+
+## anthillinside-1.16.5-1.0.6-b1.jar
+### 螞蟻搬家
+###### 尚未測出..
+
+## BetterPortals
+### 傳送門需到地心透過岩漿合成傳送門
+![image](https://user-images.githubusercontent.com/84825753/120220598-957ba980-c26f-11eb-9cb1-c6a41f8182f2.png)
 
 
 #### 20210526 Add. 
