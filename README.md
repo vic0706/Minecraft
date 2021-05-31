@@ -2,6 +2,9 @@
 `35.201.158.113`
 
 ## 更新紀錄
+* 20210531 [更新模組](https://github.com/vic0706/Minecraft/blob/main/mods/Record/record_20210531.md)
+* 20210531 [更新server模組](https://github.com/vic0706/Minecraft/blob/main/mods_for_server/Record/record_20210531.md)
+* 20210531 Update Install MC//[Install_Mods.exe](https://github.com/vic0706/Minecraft/blob/main/Install%20MC/Install_Mods.exe)
 * 20210528 Add Install MC/[Install_Mods.exe](https://github.com/vic0706/Minecraft/blob/main/Install%20MC/Install_Mods.exe)
 * 20210526 Add shaderpacks
 * 20210526 [更新模組](https://github.com/vic0706/Minecraft/blob/main/mods/Record/record_20210526.md)
